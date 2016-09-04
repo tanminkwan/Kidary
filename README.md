@@ -24,3 +24,6 @@ Kidary Prototype 개발 계획 (2016-09-04)
         각종Plugin
          * Chat
          * Mobile
+
+일정 : 개발 한 3개월???
+       테스트 및 안정화 3개월???
